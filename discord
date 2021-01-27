@@ -1,0 +1,33 @@
+
+      <head>
+        <title>blvuxe</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel='icon' href='icon.ico' type='image/x-icon'>
+      </head>
+
+      <body>
+        <h1 style="text-align:center">BLVUXE</h1>
+        <div id="Topbuttons">
+          <a href="http://blvuxe.tk/">
+            <button class="topbuttons">Home</button>
+          </a>
+          <a href="discord">
+            <button class="topbuttons">Discord Server</button>
+          </a>
+          <a href="videos">
+            <button class="topbuttons">Videos</button>
+          </a>
+          <a href="socials">
+            <button class="topbuttons">Socials</button>
+          </a>
+        </div>
+        <div id="discobuttons">
+            <button class="discordbuttons">Join Server</button><br>
+          <div id="discobutton2">  
+            <button class="discordbuttons">Mod Application</button><br>
+          </div>
+          <div id="discobutton3">
+            <button class="discordbuttons">Ban Appeal</button>
+          </div>
+        </div>
+      </body>
